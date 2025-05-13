@@ -1,2 +1,3 @@
 # bookbot
-Guided project from the boot.dev back-end developer track
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
